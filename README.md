@@ -38,7 +38,11 @@
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveena06-AI&layout=compact&theme=tokyonight)
-
+*Java
+*python
+*HTML
+*SQL
+*CSS
 ---
 
 ## Profile Views
